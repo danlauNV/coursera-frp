@@ -3,8 +3,8 @@ Coursera [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functio
 
 > Learn how to write composable software that stays responsive at all times by being elastic under load and resilient in the presence of failures. Model systems after human organizations or inter-human communication.
 
-- [x] [Week 1](https://github.com/iarkhanhelsky/coursera-frp/quickcheck)
-- [ ] [Week 2](https://github.com/iarkhanhelsky/coursera-frp/calculator)
+- [x] [Week 1](https://github.com/iarkhanhelsky/coursera-frp/tree/master/quickcheck)
+- [ ] [Week 2](https://github.com/iarkhanhelsky/coursera-frp/tree/master/calculator)
 - [ ] Week 3 TBA
 - [ ] Week 4 TBA
 - [ ] Week 5 TBA
